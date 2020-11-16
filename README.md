@@ -12,7 +12,9 @@ Aezora masternode setup
 2. Download Local Wallet for your operating system: : https://github.com/Aezora/Aezora/releases/
 
 - You can see daily income and collateral info here: https://masternodes.online/currencies/AZR/ or https://coins.masternode.buzz/AZR <br>
-Reward structure:
+
+
+<b>Reward structure:</b>
 <img src="https://i.imgur.com/q0bI7OA.png" alt="AZR Reward Structure">
 
 3. You will need also VPS with Ubuntu 16.04 or 18.04

@@ -13,12 +13,12 @@
 - You can see daily income and collateral info here: https://masternodes.online/currencies/AZR/ or https://coins.masternode.buzz/AZR <br>
 
 
-<b>Reward structure:</b>
+### Reward structure:
 <img src="https://i.imgur.com/q0bI7OA.png" alt="AZR Reward Structure">
 
 3. You will need also VPS with Ubuntu 16.04 or 18.04
 
-**VPS WALLET:**
+### VPS WALLET:
 
 To install Aezora(AZR) Masternode use the following command:
 

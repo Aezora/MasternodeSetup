@@ -1,5 +1,4 @@
-# MasternodeSetup
-Aezora masternode setup
+# Aezora MasternodeSetup
 
 <img src="https://i.imgur.com/qEoqz9y.png"  alt="Aezora SPECIFICATIONS">
 

@@ -22,7 +22,7 @@
 
 To install Aezora(AZR) Masternode use the following command:
 
-`bash <( curl -sL https://raw.githubusercontent.com/Aezora/MasternodeSetup/main/aezora-masternode-install.sh`)
+`bash <( curl -sL https://raw.githubusercontent.com/Aezora/MasternodeSetup/main/aezora-masternode-install.sh)`
 
 - Enjoy
 
